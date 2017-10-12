@@ -9,13 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/*! @brief &lt;#简介#&gt;
- *
- * @param &lt;#参数#&gt;
- * @param &lt;#参数#&gt;
- * @return &lt;#返回值#&gt;
- */
-- (void)&lt;#methodName#&gt;{
+	<string>- (void)&lt;#methodName#&gt; {
 
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
