@@ -12,7 +12,7 @@
 	<string>
 #pragma mark- LifeCicle
 
-#pragma mark- CreateUI
+#pragma mark- SetUpView
 
 #pragma mark- EventRespone
 
